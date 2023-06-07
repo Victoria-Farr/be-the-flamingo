@@ -1,0 +1,38 @@
+/* Ya basics */
+
+body {
+    font-family: 'Darker Grotesque', sans-serif;
+    background-image: url("images/peach-noise-gradient.png");
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 1.9em;
+}
+
+p {
+    font-size: 1.8em;
+    font-weight: 500;
+}
+
+/* URL stylin' */
+a {
+    color: #d8e021;
+    text-decoration-style: dashed;
+    text-decoration-color: #24e0ff;
+}
+
+a:hover {
+    color: #f92765;
+    text-decoration-style: wavy;
+    text-decoration-color: #24e0ff;
+}
