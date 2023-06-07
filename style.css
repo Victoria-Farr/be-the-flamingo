@@ -19,6 +19,15 @@ h3 {
     font-size: 1.9em;
 }
 
+h4 {
+    color: #24e0ff;
+    font-size: 1.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+
 p {
     font-size: 1.8em;
     font-weight: 500;
@@ -35,4 +44,19 @@ a:hover {
     color: #f92765;
     text-decoration-style: wavy;
     text-decoration-color: #24e0ff;
+}
+
+/* DIV stylin' */
+
+.stardate {
+    background-color: lightgray;
+    text-align: center;
+}
+
+/* Custom cursor pointer */
+
+.url {
+    cursor: url(3D-pointer-pink.cur),auto;
+    text-transform: uppercase;
+    font-weight: 800;
 }
